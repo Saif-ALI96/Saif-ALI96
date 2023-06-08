@@ -14,7 +14,7 @@
    </p>
    
    
-    <img src= "https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
+    <img src= "https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
       
     
 
