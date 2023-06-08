@@ -9,6 +9,8 @@
  <p align="right">
            <img src="https://www.essa-dakar.com/image/course/1704016324424836.gif" width="400" height="300"/> 
            </p>
+           
+           [![Codewars](https://www.codewars.com/users/Saif-96/badges/large)](https://www.codewars.com/users/Saif-96)
 
 
 
