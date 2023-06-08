@@ -11,6 +11,7 @@
            </p>
            
            [![Codewars](https://www.codewars.com/users/Saif-96/badges/large)](https://www.codewars.com/users/Saif-96)
+           [![Codewars](https://www.codewars.com/users/Hachemi/badges/large)](https://www.codewars.com/users/Hachemi)
 
 
 
