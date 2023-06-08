@@ -14,7 +14,7 @@
    </p>
    
    
-    <img src= "https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif" width="300" height="300">
+    <img src= "https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
       
     
 
