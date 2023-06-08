@@ -1,4 +1,5 @@
- [![Codewars](https://www.codewars.com/users/Hachemi/badges/large)](https://www.codewars.com/users/Hachemi)
+[![Codewars](https://www.codewars.com/users/Saif-96/badges/large)](https://www.codewars.com/users/Saif-96)
+[![Codewars](https://www.codewars.com/users/Hachemi/badges/large)](https://www.codewars.com/users/Hachemi)
 <h1 align="center">Hi 👋, I'm Saif ALI</h1>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -11,9 +12,9 @@
            <img src="https://www.essa-dakar.com/image/course/1704016324424836.gif" width="400" height="300"/> 
            </p>
            
-           [![Codewars](https://www.codewars.com/users/Saif-96/badges/large)](https://www.codewars.com/users/Saif-96)
+           
           
-[README.md](https://github.com/Saif96-max/Saif96-max/files/11686087/README.md)
+
 
 
 
