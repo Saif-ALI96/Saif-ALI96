@@ -9,7 +9,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
  <p align="right"> 
-           <img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" width="400" height="300"/> </p>
+           <img src="https://www.essa-dakar.com/image/course/1704016324424836.gif" width="400" height="300"/> </p>
            </p>
 
 
