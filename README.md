@@ -1,5 +1,4 @@
 [![Codewars](https://www.codewars.com/users/Saif-96/badges/large)](https://www.codewars.com/users/Saif-96)
-[![Codewars](https://www.codewars.com/users/Hachemi/badges/large)](https://www.codewars.com/users/Hachemi)
 <h1 align="center">Hi 👋, I'm Saif ALI</h1>
 
 <h3 align="center">Languages and Tools:</h3>
