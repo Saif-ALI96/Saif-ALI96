@@ -3,7 +3,7 @@
 
 </p>
 <p align="center"><img src="https://i.gifer.com/origin/5e/5e6b6425c5ce19dd426fd669e4b3f3a5.gif" width="60%" height="60%"> </p>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60"                height="60"/> </a>
