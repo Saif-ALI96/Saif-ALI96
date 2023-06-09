@@ -2,7 +2,8 @@
 - 🌱 I’m currently learning **Python AND JavaScript**
 
 </p>
-<p align="center"><img src="https://www.essa-dakar.com/image/course/1704016324424836.gif" width="60%" height="60%"> </p>
+<p align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lv8FWglM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1k9xgjrtzgz8mtu3xkod.gif"> </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
