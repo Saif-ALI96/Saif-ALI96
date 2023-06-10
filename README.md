@@ -3,6 +3,7 @@ Hi, My name is Saif. I am from Iraq and i have 26 years old, at the moment i liv
 
 🌱  I’m currently learning **Python AND JavaScript**
 
+
 [![](https://visitcount.itsvg.in/api?id=Saif-ALI96&icon=5&color=7)](https://visitcount.itsvg.in)
 
 
