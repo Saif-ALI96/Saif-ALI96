@@ -1,5 +1,7 @@
 # 💫 About Me: Saif ALI
-Hi, My name is Saif. I am from Iraq and i have 26 years old, at the moment i live in France. <br>I am interested in the technology and also the back end. Currently I am a student,<br> I study computer science to discover this magnificent field.<br>🌱  I’m currently learning **Python AND JavaScript**
+Hi, My name is Saif. I am from Iraq and i have 26 years old, at the moment i live in France. <br>I am interested in the technology and also the back end. Currently I am a student,<br> I study computer science to discover this magnificent field.<br>
+
+🌱  I’m currently learning **Python AND JavaScript**
 
 [![](https://visitcount.itsvg.in/api?id=Saif-ALI96&icon=5&color=7)](https://visitcount.itsvg.in)
 
