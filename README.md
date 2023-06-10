@@ -1,6 +1,8 @@
 # 💫 About Me: Saif ALI
 Hi, My name is Saif. I am from Iraq and i have 26 years old, at the moment i live in France. <br>I am interested in the technology and also the back end. Currently I am a student,<br> I study computer science to discover this magnificent field.<br>🌱  I’m currently learning **Python AND JavaScript**
 
+[![](https://visitcount.itsvg.in/api?id=Saif-ALI96&icon=5&color=7)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saif#9572) 
@@ -17,7 +19,7 @@ Hi, My name is Saif. I am from Iraq and i have 26 years old, at the moment i liv
 ![](https://github-profile-trophy.vercel.app/?username=Saif-ALI96&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saif-ALI96&icon=5&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
