@@ -6,6 +6,8 @@ Hi, My name is Saif. I am from Iraq and I am 26 years old, at the moment I curre
 [![](https://visitcount.itsvg.in/api?id=saif-ali96&icon=5&color=7)](https://visitcount.itsvg.in)
 
 <P align="center"> <img src="https://i.gifer.com/origin/5e/5e6b6425c5ce19dd426fd669e4b3f3a5.gif"</p>
+  
+  [![Codewars](https://www.codewars.com/users/Saif-96/badges/large)](https://www.codewars.com/users/Saif-96)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saif#9572) 
@@ -26,12 +28,4 @@ Hi, My name is Saif. I am from Iraq and I am 26 years old, at the moment I curre
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-
-
-
-
-
-
-[![Codewars](https://www.codewars.com/users/Saif-96/badges/large)](https://www.codewars.com/users/Saif-96)
 
